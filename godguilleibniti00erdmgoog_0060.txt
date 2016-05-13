@@ -1,0 +1,121 @@
+·18
+
+11. DE ARTE COMBINATORIA.
+
+obiter consilium suppeditabo utile, quod vel
+ipso exemplo hoc comprobatur, in quo consi-
+stit proba, ut sic dicam, seu ars examinandi
+modum propositum, et sicubi non formae sed
+materiae vi concludit, celeriter instantiam re-
+periendi, qualem apud Logicos hactenus legere
+me non memini. Breviter: Pro UA sumatur
+propositio quam materia non patitur converti
+simpliciter, v. g. sumatur haec potius: Omnis
+homo est animal, quam, omnis homo oet ani-
+mal rationale, ct quo remotius genus sumitur,
+hoc habebis accuratius. Pro UN eligatur ta-
+lis, qua negentur de se invicem species quam
+maxime invicem vicinae sub eodem genere pro-
+ximo, v. g. homo et brutum: et quae non sit
+convertibilis per contrapositionem in UA, seu
+cujus neque subjectum neque praedicatum sit
+taen‘minus infinitus. Pro P (J) A sumatur sem·
+per talis quae non sit subalterna alicuius UA,
+sed in qua de genere quam maxime generali
+dicatur species particulariter. Pro (J) P N.
+sumatur quae non sit subalterna aliciu’us U N,
+et cujus neuter terminus sit infinituS, ct in
+qua negetur de genere maxime remoto species
+Quod diximus de terminis infinitis vitandiS,
+
+30 ejus ratio nunc patebit: Prodiit cuiusdam J oli.
+
+christoph. Sturmii compendium Universa·
+lium seu Metaphysicae Euclideae, ed. 8. Hagae
+
+Ι anno 1660. apud Adrian. Vlacq. Cui an-
+
+nexuit novos quosdam modos syllogisticos a se
+demonstr-mm, qui omnes videntur juxta commu·
+nem sententiam impingere in alteram vel utram-
+que harum duarum regularum qualitatis: ex pu·
+ris negativis qualitatem nihil sequitur-3, et:
+conclusio sequitur debilioris ex praemissis, Ut
+tamen recte procedat argumentum vel assu-
+mit propositionem affirmativam infiniti subjecti,
+quae stet pro negativa finiti· ‚ aut contra. v. g.
+aequipollent: Quidam non lapis est homo: et
+quidam lapis non oet homo. (Verum annoto,
+non procedere in universali, contra, v. g. Om-
+nis lapis non est homo. E. Omnis non lapis
+cst homo). Vel assumat negativam infiniti
+praedicati pro affirmativa finiti: vel contra,
+v. g. aequipollent: omnis philosophus non est
+non homo3 et: est homo. Vel 3. assumat loco
+datae conversam ejus per contrapositionem. Jam
+UA convertitur per contrap. in UN. U et PN.
+in PA. ita facile illi est elicere ex puris neg.
+affirmantem, si negativae ejus tales sunt ut
+stent pm affirmativis: item ex A et N elicere
+affinnantem, si ista stet pro negativa. lta pa-
+
+0 8. f. 256. juxta nostrum calculum. Simi-
+lis fere ratio est syllogismi ejus de quo Lo-
+gici disputant: Quicunque non credunt damnan-
+tur. Judaei non credunt. E. damnantur. Sed
+ejus expeditissima solutio est, minorem esse
+affirmantem: quia medius terminus affirmatur
+de minore. Medius terminus autem non est ε
+credere, sed: non credere , id enim praeexsti-
+tit ιιι majori prop. Non possum hic praeter·
+ire modum Das-opti ex ingenioso invento Cl.
+Thomasii nostri. Is observavit ex Ramo
+Schol. Dialect. lib. 7. c. 6. pag. m. 214. Conver-
+sioncm posse demonstrari per syllogismum ad·-
+jiciendo propositionem identicam3 v. g. UA in
+PA. sic: onme α oet γ. omne α est α (si
+in 3tiae modo Darapti velis: vel omne γ oet
+γ si in 4tae modo Baralip.). Ergo quoddam
+’γ est α. Item ΡΛ ιιι ΡΑ. Sic: Quoddam α
+est γ. Omne α est α (si in 3tiae modo Di-
+samis veli5, vel omne γ oet γ, si in 4tae
+modo Ditabis) Ergo quoddam γ est α. item
+UN ιιι UN (in cesare 2dae) sic: Nullum α
+est γ, Omne γ est γ. Ergo Nullum y oet α.
+Item ΡΝ vel in Baroeo 3tiae sic: Omne α
+est α. Quoddam α ιιοιι est y. E. quoddam
+γ ιιοιι est α. (vel ιιι Colanto 4tae: Quoddam
+α ιιοιι oet γ. Omne y est γ. Ergo quoddam
+γ ιιοιι est α). Idem igitur ipse in Conver-
+sione per Contrapositionem tentavit. v. g. hu-
+jus PN. Quidam homo non oet doctuS‚ in hanc
+ΡΑ infiniti subjecti quoddam uon doctum oet
+homo. Syllogismus in Daropti erit talis: Om-
+nis homo est homo, Quidam homo non aet
+doctus. E. quoddam quod non est doctum est
+homo. Observari tamen hic duo debent. Mi-
+norem juxta Sturmianam doctrinam videri quasi
+pro alia positam: Quidam homo aet non do-
+ctus-3 deinde omnium optime sic dici: propo-
+sitionis huius: Quidam homo non est doctus,
+conversam per contrapositionem proprie hanc
+esse etiam negativam: Quoddam doctum
+non est non non bomo, et in conversione
+per contrapositione identicam ipsam debere esse
+contrapositam, id ostendit syllogismus jam non
+amplius in Daropti‚ sed Baroeo: Omnis homo
+est non non bomo (id est5 omnis homo
+est homo) Quidam homo non est doctus.
+Ergo Quoddam doctum non estnon non
+ho mo (id est quoddam non doctum est homo).
+
+Caeterum Sturmianos illos modos arbitror non 33
+
+formae sed materiae ratione concludere, quia
+quod termini vel finiti vel infiniti sint non
+
+tet omnoe illas 8 variationes qualitatis fore ad formam propositionis seu copulam aut si-
+’ utiles, et per consequens modos utiles fore 32.
+
+guum pertinet, sed ad terminos. Desinemus
+

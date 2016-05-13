@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./godguilleibniti00erdmgoog_0002.png"; bbox 0 0 3717 5850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2495 1281 2513 1316">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2495 1281 2513 1316">
+     <span class='ocr_line' id='line_1_1' title="bbox 2495 1281 2513 1316"><span class='ocrx_word' id='word_1_1' title='bbox 2495 1281 2513 1316; x_wconf 67' lang='grc' dir='ltr'>Ἰν..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 793 3163 800 3187">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 793 3163 800 3187">
+     <span class='ocr_line' id='line_1_2' title="bbox 793 3163 800 3187"><span class='ocrx_word' id='word_1_2' title='bbox 793 3163 800 3187; x_wconf 60' lang='grc' dir='ltr'>ιδ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 4156 0 5089">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 4156 0 5089">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 4156 0 5089"><span class='ocrx_word' id='word_1_3' title='bbox 0 4156 0 5089; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

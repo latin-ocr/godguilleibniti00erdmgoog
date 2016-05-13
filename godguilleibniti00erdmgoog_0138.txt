@@ -1,0 +1,118 @@
+THEOREMA lv.
+
+Contentum contenti est contentum
+continentis, seu si id cui aliud inest, insit ter-
+tio, idquodeiinoet, eidem tertio inerit, velsiA
+esthetBestinQetiamAeiitinC. NamA
+est in B (ex hyp). Ergo est aliquid, cui nomen
+imponmnus L tale, ut sit A÷Loo B (per def. 3.
+vel charact 3), similiter quin B est in C (ex hyp.)
+erit B÷M ω C, in qua assertrone pro B ponendo
+A÷L (quo coimidere ostendimus) fiet Α-Ι-Ιι-Ι·
+Μ ω C. Jam pro L÷M ponendo N (per postul. 1.)
+fiet A÷NoeC. Ergo A estin C (perdef- 3.)
+Q. E. Dem.
+
+THEOREMA V.
+
+cui singula insunt, etiam cx ipsis
+constitutum inest.
+
+Si A est in C, etB est in G, etiam A÷B (Consti-
+tutum ex A et B def. 4.) erit in C. Nam quia A est
+in C, erit aliquod Μ tale ut possit fieri A÷M α)
+C (per def. 3) similiter quiaBest inc, poterit
+fieri B÷N 00 C, quae coniungendo (per coroll.
+Theorematis 3) fietA÷n1÷B÷N α) C, et proin-
+de (per def. 3) A÷B est in C. Q. Ε. Dem.
+
+THEOREMA VI.
+
+Constitutum ex contentis inest consti·
+tuto ex continentibus.
+
+SiAestinMetBoet inN‚eritA÷B in M
+--Ι-Ν. NamAoetinM(exhyp.) etMestinM
+-1-Ν per def. 3). Ergo N est in M÷N (per def.
+3). Ergo B est in M÷N (per theor. 4) jam si A
+est in Μ-Ι-Ν., etB est inM÷N‚ etiam (perth. 5)
+erit A÷B in Μ-Ι-Ν, Q. E. Dem.
+
+THEOREMA vn.
+
+Si quid additur ei cui inest, nil consti-
+tuitur novi.
+
+SissestinAefitA÷BoeA. NamsiBestin
+A, potest fieri B-l-Ceo A (def. 3). Ergo peri·
+(theor. 3) A÷BoeB÷c÷BoeB÷c (per
+axiom. 1)oeA(perdictahic). Q. E. Dem.
+
+ooNVERSUM TgEOREMATlS PRAECF}
+ENTIS.
+
+Si quid addendo alteri nil constituitur,
+ipsum alteri inest.
+
+XIX. SPEcnuEN DEMONSTRANDI.
+
+oetinA(perinsn·tum inter theor.2 αδ).
+
+Aliud ent den-actio in notionibus, alind negatio,
+v. g. Homo non rationalis est aban-dum seu im-
+possibile. Sed licet dioei'e: sinna est homo, nisi
+quod non est rationalis, ut in jambo Grotii. Homo —
+Rationalis aliud quam homo non rationalis. Nam
+Homo—Rationalis ω Brutum. Sed homo nou ratio-
+nalis oet impossibile. Homo-Animal—Rationalis
+est Nihilum. Hinc demotionoepoesunt faeere nihilum
+seu non Ens simplex imo minus nihilo, sed negu-
+tiones possunt faeere impossibile.
+
+THEOREMA IX.
+
+1) Ex compensatione expressa sequitur destructio
+compensati si nihil sit in compensatione destruenda,
+quod tacite repetitum constitutionem ingrediatur
+exn-a compensationem, 2) item si quiequid est hoc
+repetitum, ingrediatur et se et positionem et detra-
+ctionem extra compensationem, 3) si horum neu·
+tuum contingat, destructio pro compensatione sub-
+stitui non potest.
+
+Casus 1. Si A÷N —M—N est 00 A—M,
+et A, N, M sunt incommunieantia, ita mim nihil
+est in compensatione destruenda A÷N — N quod
+sit extra ipsam in A vel M seu quod inq-N poni-
+tur id, quotiescunque hic ponitur, continetur ill-{-
+N et quod in -- N detrahitur, id, quotiescunque hic
+detrahitur, continetur in - N, ergo (per ax 2) pro
+÷N -— N poni potest Nihilum.
+
+Casus 2. Si A÷B—B--Goe F et omne
+quod tam A et B, quam G et B commune habeant
+sit M, erit F 00 A -- G. Ponamus praeterea, omne
+quodAethommune lnbent, eoeeEsiquodha·
+bent, ita ut si nihil communicassent E sit 00 Nih„
+ita eritA 00E÷Q÷M BooN-fl-Met ΘωΕ-ι-
+Η-Ι-Μ et fiet F ω Ε-ι-Ο-ι-Μ-Ι-Ν-Ι-Μ- Ν --
+Μ-Ε-Η-Μ qui termini omnes (F, Q, N, M,
+H) sunt incommunicantae, ideo (per casum prae-
+cedentem) sit F oe Q— H 00 Ε-Ι-2-Ι-Μ- E —
+Η- Μ 00 A— G.
+
+Casus 3. Si A÷B— Β- D oeC, et id quod
+commune est ipsi A et B non coincidit cum ρο,
+'quod commune est ipsis B et D, non erit C 00 A —-
+D, sit enim BooE÷F÷G, et AooH-fl-E: et
+D ω Κ-Ι-Ἑ, sic ut haec ingredientia non sint am·
+plius communicantia nec ulteriore adeo resolutione
+sit opus», fietc ωΗ-Ι-Ε-Ι-Ε-Ι-Ρ-Ι-(Ξὲ -- Ε — F—
+G—K—F, id est (per casum 1) (ἕω Η-Κ,
+quod nonestooA -D, id enimoetoeH÷E—
+K— J, nisi ponitur E 00 F, seu commune inter B
+et A idem cum communi inter B et D contra hyp.
+
+Si A÷13 α) A, tum B erit' m A, nam B est in Eadem demonstratio foret etsi A et D habuissent
+A÷B (def. 3) ct A÷B α) A (ex hyp..) Ergo B aliquid commune inter se.
+

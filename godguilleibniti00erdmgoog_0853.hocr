@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./godguilleibniti00erdmgoog_0853.png"; bbox 0 0 3717 5850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 913 1186 924 1209">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 913 1186 924 1209">
+     <span class='ocr_line' id='line_1_1' title="bbox 913 1186 924 1209; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 913 1186 924 1209; x_wconf 56' lang='lat' dir='ltr'><em>*n</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1038 3199 1050 3218">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1038 3199 1050 3218">
+     <span class='ocr_line' id='line_1_2' title="bbox 1038 3199 1050 3218; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 1038 3199 1050 3218; x_wconf 68' lang='lat'><em>*0</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1059 3627 1078 3676">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1059 3627 1078 3676">
+     <span class='ocr_line' id='line_1_3' title="bbox 1059 3627 1078 3676; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 1059 3627 1078 3676; x_wconf 52' lang='lat'><em>‘-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1415 4739 1424 4780">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1415 4739 1424 4780">
+     <span class='ocr_line' id='line_1_4' title="bbox 1415 4739 1424 4780; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 1415 4739 1424 4780; x_wconf 63' lang='lat'><em>&lt;==</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

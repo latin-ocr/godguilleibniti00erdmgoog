@@ -1,0 +1,100 @@
+, 10 11.. ‚DE 61133 . communem ’
+
+‘PROBLEMA' ΓΑ.
+
+'ma sum quae spectari debent: Problemata,
+Theotemata, 1131133 111 singilis problematis usum
+adjecimus3 sicubi opem pretium videbamr, ot theo-
+remata. Pmblematum autem quibusdam rationem
+solutionis addidimus Ex iis partem posteriorem
+primi, secundum et quartum aliis debemus, reliqua
+ipsi 6111111133. Quis 11111 primus detexerit ignoramus,
+schwenterus-Delio. 1. l. Sect. 1. prop. 32. apud
+Hieronymum carduum, Johannem Bu-
+teonem et Nicolaum Tartaleam extare 'dicit
+In Cardani tamem pmetica Aritiuueticaquae. pro-
+diit Mediolani anno 1539. nihil reperimus· Inpri-
+11113 dilucide, quicquid dudum habetur, proposuit
+christoph. ‚Clarius in Gom. supra Joh. de
+Sacro Bosoo Sphaer. edit. Romae forma 4ta anno
+1785 p. 33. seqq.
+
+PROBL. 1.
+
+DATO NUMERO E'l EXPONEN TE
+COMPLEXIONES INVENiRE.
+
+1 ⁸ Solutionis duo sunt modi,un unus de omnibus
+.. complexionibus, alter de eom2nationibus solum:
+
+μ1116 quidem aet generalior, hio tero pauciora re-
+
+’ quirit data, nempe numerum solum et exponen-
+tem3 cum ille etiam praesupponat inventas eom·
+
+2 plexiones antecedentes. Generaliorem modum
+, 1103 deteximus, specialis est vulgatus. Solutio
+
+illius talis est· «addantur complexionffi expo-
+
+, «nentis antecedentis et dati de numero antece-
+
+·1· 1
+
+-deuti, luoduetiun irunt eomplezdonee quaesi-
+
+tae-3 ι· v. g. esto numerus. datus Α, exponens
+datus 3. addnntm· de numum antecedente 3.
+eom2nationee 3. et con3natio ·1.(3. τὶ· l. f. 4.)
+prodamur-4. erit quaesimm.. Sed cm prae- 3
+requirantur complexiones 1111111631. antecedentis,
+construenda est tabula 1. in qua linea suprema a
+sinistra dextrorsum eontinet Numeros, a 0 us-
+que ad 1 2. utrimque inclusive, satis enim esse
+<lusionis 11116 usque progredi, quam facile est
+continuam = -unea 6111161116 sirum-a ,a summe -de-
+orsum eontinet Exponen tes ao. ad lQ. linea
+infima a suestra dextrorsum eontinet Comple-
+xiones simpliciter. Reliquae imoelm u-4
+neae cont-ment. eomplexiones dete numero qui
+sibi. in vertice ‹lireote respondet, et exponente
+qui e regionesinistra. Ratio solutioniS, et
+
+. ξ fundamentmn tabidae patebit, si (1611106116ναί-
+
+111113, Complexiones dati numeri et ex-
+ponentis oriri ex summa complexio-
+num de numero praecedenti exponentis
+et praecedentis et dati. Sit enim numerus
+datus 5, exponens datie 3. Erit numer-us an-
+tecedens .4. is lubet eon3nauones 4, pervehu-
+laln L commotiones ,6. Jam numerus 5. habet
+onmes eonssnationes quas messalem (111 toto
+enim et pars eontinetur) nempe 4. et 1116616166
+tot quot praecedens habet 00m2nationes‚ nova
+emmraequanumems5. excedit-1. 13111111ιεί11-
+gulis minsthionibus hujus, fauit totidem no-
+vas eon3nationes nempe 6. ·1- 4. f. 10 F. Com-
+plexiones dati numeri eteQ, Ε. D.-
+
+· TABULAI.
+⁰.1 1⁸111‚1 1., 11 ι 1 1
+1 0 1 2 3 4, 5 ,6 711 eu emme 111- 121,
+2 0 0 1 3 6 10 15 21 28 36 45 55 -66 ·
+’3 0 0 0 ι 4 10 20 ,35 56 34 120 165 220
+, 4 ,0 0 0 0,1 5 15 35 ,70 126 210 330 495,. ξ
+33 5 0 0 0 0 0 1 -,6-,2ι 56 126 252 462 102 a
+ς.. 6 0 0 0 0 0 0 ,1 7 26 64 210 462 ,924- 0
+ᾗ 7 0 0 0 0 0 0 2 0 8 36 120 330132. -ἶξ
+’53 s 0 0 0 0 0 0 0 0 ι ε) 45 165 495 ο
+9 0 0 0 ο 0 0 0 0 0 1 10 55220 Ξ,
+Ξιο 0 0 0 0 0 0 0 0 0 0 1¹ 11 66 ε
+11 0 0 0 0 0 ο 0 0 0 0 0 1 12 ,0
+12 0 0 0 0 0 0 0 0 0 0 0 1 0
+·
+
+2 4 8 16 32 64 128 256 512 1024 2048 4096
+
+Complexiones simpliciter ¹* (3611 summa Complexionum dato exponente) addita mutate, quae
+.coincidunt cum terminis 11103163101113 geomefficao duplae. -ί-
+
